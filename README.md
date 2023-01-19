@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats-git-master-summerxx27.vercel.app/api?username=summerxx27&show_icons=true&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats-git-master-summerxx27.vercel.app/api?username=summerxx27&show_icons=true&include_all_commits=true&theme=radical" />
 
 ### Hi there 👋
 
