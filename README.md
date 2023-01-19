@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=summerxx27)](https://github.com/summerxx27/github-readme-stats)
 ### Hi there 👋
-| <a href="https://github.com/summerxx27/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-summerxx27.vercel.app/api?username=summerxx27&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true alt="Summerxx's github stats" /></a> | <a href="https://github.com/summerxx27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerxx27&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/summerxx27/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-summerxx27.vercel.app/api?username=summerxx27&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/summerxx27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerxx27&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--
 **summerxx27/summerxx27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
