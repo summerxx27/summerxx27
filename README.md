@@ -1,5 +1,6 @@
-<img align="right" src="https://github-readme-stats-git-master-summerxx27.vercel.app/api?username=summerxx27&show_icons=true&include_all_commits=true&theme=radical" />
+<img align="right" src="https://github-readme-stats-git-master-summerxx27.vercel.app/api?username=summerxx27&show_icons=true&include_all_commits=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=summerxx27)](https://github.com/summerxx27/github-readme-stats)
 ### Hi there 👋
 
 <!--
