@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 Focusing on iOS
 - 🌱 I’m currently learning ruby, python
-- 🤔 I’m looking for help with ...
+- :hammer: Creator of applications and frameworks
 - 💬 Ask me about objc, swift, ruby, python
 - 📫 How to reach me: summerxx27@163.com
 
@@ -10,8 +10,8 @@
 | ------------- | ------------- |
 
 ### Top Repositories
-<a href="https://github.com/summerxx27/XTDeriveGithubDataToExcel">
-  <img align="center" src="https://github-readme-stats-git-master-summerxx27.vercel.app/api/pin/?username=summerxx27&repo=XTDeriveGithubDataToExcel&theme=buefy" />
+<a href="https://github.com/summerxx27/XTAnimations">
+  <img align="center" src="https://github-readme-stats-git-master-summerxx27.vercel.app/api/pin/?username=summerxx27&repo=XTAnimations&theme=buefy" />
 </a>
 <a href="https://github.com/summerxx27/summerxx27.github.io">
   <img align="center" src="https://github-readme-stats-git-master-summerxx27.vercel.app/api/pin/?username=summerxx27&repo=summerxx27.github.io&theme=buefy" />
