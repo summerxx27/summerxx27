@@ -6,5 +6,4 @@
 - 🌱 I’m currently learning ruby, python
 - :hammer: Creator of applications and frameworks
 - 💬 Ask me about objc, swift, ruby, python
-- 📫 How to reach me: summerxx27@163.com
 
