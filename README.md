@@ -5,5 +5,5 @@
 - 🔭 Focusing on iOS
 - 🌱 I’m currently learning ruby, python
 - :hammer: Creator of applications and frameworks
-- 💬 Ask me about objc, swift, ruby, python
+- :meat_on_bone: Meat lover
 
